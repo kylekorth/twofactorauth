@@ -64,6 +64,13 @@ websites:
       software: Yes
       doc: https://awardwallet.com/faqs#44
 
+    - name: Bananatag
+      url: https://www.bananatag.com/
+      img: bananatag.png
+      tfa: No
+      twitter: bananatag
+      facebook: trackemail
+
     - name: BasisCode Compliance
       url: http://basiscode.com
       img: basiscode.png
@@ -103,6 +110,12 @@ websites:
       software: Yes
       doc: https://documentation.meraki.com/zGeneral_Administration/Managing_Dashboard_Access/Using_Google_Authenticator_for_Two-factor_Authentication_in_Dashboard
 
+    - name: Clickworker
+      url: https://www.clickworker.com/
+      img: clickworker.png
+      tfa: No
+      twitter: clickworker_com
+
     - name: Clio
       url: https://goclio.com
       img: clio.png
@@ -136,6 +149,12 @@ websites:
       twitter: crowd_supply
       facebook: CrowdSupply
       email_address: support@crowdsupply.com
+
+    - name: CrowdFlower
+      url: https://www.crowdflower.com/
+      img: crowdflower.png
+      tfa: No
+      twitter: CrowdFlower
 
     - name: Delicious
       url: http://del.icio.us/
@@ -232,6 +251,21 @@ websites:
       tfa: No
       twitter: indeed
       facebook: Indeed
+
+    - name: Indiegogo
+      url: https://www.indiegogo.com/
+      twitter: indiegogoUK
+      facebook: Indiegogo
+      img: indiegogo.png
+      tfa: No
+
+    - name: Instapaper
+      url: https://www.instapaper.com
+      twitter: InstapaperHelp
+      facebook: instapaperholdings
+      email_address: support@help.instapaper.com
+      img: instapaper.png
+      tfa: No
 
     - name: karriere.at
       url: http://www.karriere.at
@@ -363,6 +397,13 @@ websites:
       tfa: No
       twitter: signnow
       facebook: BarracudaSignNow
+
+    - name: Spare5
+      url: https://app.spare5.com/fives
+      img: spare5.png
+      tfa: No
+      twitter: spare5
+      facebook: spare5app
 
     - name: StartJOIN
       url: https://www.startjoin.com/
